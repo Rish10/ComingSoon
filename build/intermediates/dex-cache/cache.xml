@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/rishabh/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/rishabh/AndroidStudioProjects/Android-FacebookLogin-master/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_85534a6b931af6eccf965d4d4b983aecc2d76a68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rishabh/MyApp/android-studio/gradle/gradle-3.2/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/home/rishabh/AndroidStudioProjects/Android-FacebookLogin-master/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4_27cbcbab7048861ba72d4deb1c0dbc61c18fe43c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rishabh/.android/build-cache/83cd10319872b29ad5c7bac633ca70929ae156f2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0f254ec13d6671680482d2218f01ecf14dfa93e6">
+        <dex dex="/home/rishabh/AndroidStudioProjects/Android-FacebookLogin-master/app/build/intermediates/pre-dexed/debug/classes_bfda3c9a5947fdf267dd509b76ab6ff392108b18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rishabh/MyApp/android-studio/gradle/gradle-3.2/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/home/rishabh/AndroidStudioProjects/Android-FacebookLogin-master/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4_27cbcbab7048861ba72d4deb1c0dbc61c18fe43c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rishabh/.android/build-cache/350623c90740042daaa913821499e88d0bc89d17/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/rishabh/AndroidStudioProjects/Android-FacebookLogin-master/app/build/intermediates/pre-dexed/debug/classes_73bae752f2467f7989bb90b1ee8458f6136b909d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rishabh/.android/build-cache/83cd10319872b29ad5c7bac633ca70929ae156f2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0f254ec13d6671680482d2218f01ecf14dfa93e6">
+        <dex dex="/home/rishabh/AndroidStudioProjects/Android-FacebookLogin-master/app/build/intermediates/pre-dexed/debug/classes_bfda3c9a5947fdf267dd509b76ab6ff392108b18.jar" />
+    </item>
+
+</items>
